@@ -2,6 +2,8 @@
 
 Batch convert PowerPoint files to PDF using Automator on macOS
 
+Use [this script](./keynote-convert-ppt-to-pdf.applescript) for Keynote version.
+
 ## News
 - **August 30, 2024**: Pull Request Merged
 	- A [PR#6](https://github.com/jeongwhanchoi/convert-ppt-to-pdf/pull/6) updating the convert-ppt-to-pdf.applescript has been merged. This update includes:
